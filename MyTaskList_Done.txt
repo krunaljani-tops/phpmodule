@@ -10,3 +10,6 @@ Day 9: MySQL Connection and SQL Injection Theory: Connecting PHP with MySQL data
  data from a database.
  Test:http://localhost/Module14/day9.php?username=admin
  Test_with_sqli=//localhost/Module14/day9.php?username=admin OR 1=1
+Day 10: Server-Side Validation and Registration Theory: Importance of server-side validation.
+ Using regular expressions for input validation. Practical: Develop a registration form with
+ validations.
