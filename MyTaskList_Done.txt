@@ -1,0 +1,7 @@
+Module14 
+Day 7 : Email Security Functions and File Handling Theory: Sending emails in PHP. Basics of
+ file handling: reading, writing, appending. Practical: Create a program to send an email using
+ mail() and save email logs in a file.
+Day 8: MVC Architecture Theory: Introduction to MVC (Model-View-Controller) architecture.
+ Importance of separating concerns. Practical: Set up a basic MVC structure in PHP.
+ To Execute : http://localhost/Module14/mvcapp/public/
