@@ -13,3 +13,5 @@ Day 9: MySQL Connection and SQL Injection Theory: Connecting PHP with MySQL data
 Day 10: Server-Side Validation and Registration Theory: Importance of server-side validation.
  Using regular expressions for input validation. Practical: Develop a registration form with
  validations.
+ Day 11: Session and Cookies Theory: Basics of session management and cookies in PHP.
+ Practical: Create a program to maintain user login sessions
