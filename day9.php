@@ -35,7 +35,7 @@ if (isset($_GET['username'])) {
         echo "No user found.";
     }
 
-    // Step 6: Cleanup
+    // Step 6: Cleanup?zmlxslnk  ,, .
     $stmt->close();
 } else {
     echo "Please provide a username using ?username=... in the URL.";

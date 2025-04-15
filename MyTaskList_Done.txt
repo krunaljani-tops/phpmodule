@@ -5,8 +5,8 @@ Day 7 : Email Security Functions and File Handling Theory: Sending emails in PHP
 Day 8: MVC Architecture Theory: Introduction to MVC (Model-View-Controller) architecture.
  Importance of separating concerns. Practical: Set up a basic MVC structure in PHP.
  To Execute : http://localhost/Module14/mvcapp/public/
- Day 9: MySQL Connection and SQL Injection Theory: Connecting PHP with MySQL database.
+Day 9: MySQL Connection and SQL Injection Theory: Connecting PHP with MySQL database.
  Understanding and preventing SQL injection. Practical: Write a script to fetch and display user
  data from a database.
  Test:http://localhost/Module14/day9.php?username=admin
-Test_with_sqli=//localhost/Module14/day9.php?username=admin OR 1=1
+ Test_with_sqli=//localhost/Module14/day9.php?username=admin OR 1=1
