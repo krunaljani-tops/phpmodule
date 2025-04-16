@@ -22,3 +22,5 @@ Day 12: File Uploads and Downloads Theory: Handling file uploads securely in PHP
 =================================================================
  Day 14: Validation Using JavaScript Theory: Client-side form validation. Practical: Build a
  program with real-time form validation using JavaScript.
+ Day 15: PHP and AJAX Theory: Basics of AJAX and its importance in PHP. Practical: Create a
+ dynamic search feature using AJAX.
