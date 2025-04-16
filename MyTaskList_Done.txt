@@ -19,3 +19,6 @@ Day 12: File Uploads and Downloads Theory: Handling file uploads securely in PHP
  Build a script to upload and download files.
 • Day 13: JavaScript and jQuery Basics Theory: Introduction to JavaScript and jQuery. Basics of
  jQuery selectors and events. Practical: Create a basic calculator using JavaScript.
+=================================================================
+ Day 14: Validation Using JavaScript Theory: Client-side form validation. Practical: Build a
+ program with real-time form validation using JavaScript.
